@@ -6,7 +6,6 @@ Engineer | Entrepreneur
 * 👽  I am known as MrDHat everywhere on the internet
 * 🌍  Currently living in India 🇮🇳
 * ✉️  You can contact me at [i@akshay.co](mailto:i@akshay.co)
-* 🚀  I'm currently working on [Postman](https://postman.com/)
 * 🧠  I have built 2 companies in the past with 1 exit
 
 <a href="https://www.github.com/mrdhat" target="_blank" rel="noreferrer"><img

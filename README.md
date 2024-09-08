@@ -4,7 +4,7 @@ Hi 👋 I am Akshay
 Engineer | Entrepreneur
 ---------
 * 👽  I am known as `mrdhat` everywhere on the internet
-* 🌍  Currently living in India 🇮🇳
+* 🌍  Currently living in Dubai 🇦🇪
 * ✉️  You can contact me at [i@akshay.co](mailto:i@akshay.co)
 * 🧠  I have built 2 companies in the past with 1 exit
 * 👷‍♂️  I have worked with 1 early stage startup & 1 scaleup ([@postmanlabs](https://github.com/postmanlabs)) in the past

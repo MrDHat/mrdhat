@@ -4,6 +4,7 @@ Hi 👋 I am Akshay
 Engineer | Entrepreneur
 ---------
 * 👽  I am known as `mrdhat` everywhere on the internet
+* ✍🏻 I sometimes write at [akshay.co](https://akshay.co)
 * 🌍  Currently living in Dubai 🇦🇪
 * ✉️  You can contact me at [i@akshay.co](mailto:i@akshay.co)
 * 🧠  I have built 2 companies in the past with 1 exit

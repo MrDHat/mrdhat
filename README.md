@@ -5,11 +5,11 @@ Engineer | Entrepreneur
 ---------
 * 👽  I am known as `mrdhat` everywhere on the internet
 * ✍🏻 I sometimes write at [akshay.co](https://akshay.co)
-* 🌍  Currently living in Dubai 🇦🇪
+* 🌍  Currently living in Dublin 🇮🇪
 * ✉️  You can contact me at [i@akshay.co](mailto:i@akshay.co)
 * 🧠  I have built 2 companies in the past with 1 exit
-* 👷‍♂️  I have worked with 1 early stage startup & 1 scaleup ([@postmanlabs](https://github.com/postmanlabs)) in the past
-* 🏗️  These days I am working with an early stage Web 3.0 stealth startup
+* 👷‍♂️  I have worked with early stage startups scaleups ([@postmanlabs](https://github.com/postmanlabs)) in the past
+* 🏗️  These days I am working on Databases at ([@intercom](https://github.com/intercom))
 
 <a href="https://www.github.com/mrdhat" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mrdhat?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>

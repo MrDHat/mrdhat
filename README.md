@@ -9,7 +9,7 @@ Engineer | Entrepreneur
 * ✉️  You can contact me at [i@akshay.co](mailto:i@akshay.co).
 * 🧠  I have built 2 companies in the past with 1 exit.
 * 👷‍♂️  I have worked with early stage startups & scaleups in the past.
-* 🏗️  These days I am working on Databases at ([@intercom](https://github.com/intercom))
+* 🏗️  These days I am working on Databases at [@intercom](https://github.com/intercom)
 
 <a href="https://www.github.com/mrdhat" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mrdhat?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
